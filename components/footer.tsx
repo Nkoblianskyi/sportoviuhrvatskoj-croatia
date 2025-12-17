@@ -96,14 +96,14 @@ export function Footer() {
               href="https://www.gambleaware.org/"
               target="_blank"
               rel="noopener noreferrer"
-              className="transition-transform hover:scale-110"
+              className="transition-transform hover:scale-110 "
             >
-              <div className="relative w-[90px] h-[36px] md:w-[110px] md:h-[44px] p-2 rounded-lg bg-background/15 hover:bg-background/25">
+              <div className="bg-white rounded-lg relative w-[90px] h-[36px] md:w-[110px] md:h-[44px] p-2hover:bg-background/25">
                 <Image
                   src="/gamble-aware.webp"
                   alt="GambleAware"
                   fill
-                  className="object-contain bg-background px-1.5"
+                  className="object-contain px-1.5"
                 />
               </div>
             </Link>
@@ -114,8 +114,8 @@ export function Footer() {
               rel="noopener noreferrer"
               className="transition-transform hover:scale-110"
             >
-              <div className="relative w-[90px] h-[36px] md:w-[110px] md:h-[44px] p-2 rounded-lg bg-background/15 hover:bg-background/25">
-                <Image src="/gamecare-new.svg" alt="GamCare" fill className="object-contain bg-background px-1.5" />
+              <div className="relative w-[90px] h-[36px] md:w-[110px] md:h-[44px] p-2 rounded-lg bg-white hover:bg-background/25">
+                <Image src="/gamecare.svg" alt="GamCare" fill className="object-contain bg-white rounded-lg px-1.5" />
               </div>
             </Link>
 
@@ -125,8 +125,8 @@ export function Footer() {
               rel="noopener noreferrer"
               className="transition-transform hover:scale-110"
             >
-              <div className="relative w-[90px] h-[36px] md:w-[110px] md:h-[44px] p-2 rounded-lg bg-background/15 hover:bg-background/25">
-                <Image src="/gamstop.svg" alt="GamStop" fill className="object-contain bg-background px-1.5" />
+              <div className="relative w-[90px] h-[36px] md:w-[110px] md:h-[44px] p-2 rounded-lg bg-white hover:bg-background/25">
+                <Image src="/gamstop.svg" alt="GamStop" fill className="object-contain bg-white rounded-lg px-1.5" />
               </div>
             </Link>
 
@@ -136,8 +136,8 @@ export function Footer() {
               rel="noopener noreferrer"
               className="transition-transform hover:scale-110"
             >
-              <div className="relative w-[90px] h-[36px] md:w-[110px] md:h-[44px] p-2 rounded-lg bg-background/15 hover:bg-background/25">
-                <Image src="/hupis.png" alt="Hupis" fill className="object-contain bg-background px-1.5" />
+              <div className="relative w-[90px] h-[36px] md:w-[110px] md:h-[44px] p-2 rounded-lg bg-white hover:bg-background/25">
+                <Image src="/hupis.png" alt="Hupis" fill className="object-contain bg-white rounded-lg px-1.5" />
               </div>
             </Link>
 
@@ -147,8 +147,8 @@ export function Footer() {
               rel="noopener noreferrer"
               className="transition-transform hover:scale-110"
             >
-              <div className="relative w-[90px] h-[36px] md:w-[110px] md:h-[44px] p-2 rounded-lg bg-background/15 hover:bg-background/25">
-                <Image src="/pbsvi.svg" alt="PBSVI" fill className="object-contain bg-background px-1.5" />
+              <div className="relative w-[90px] h-[36px] md:w-[110px] md:h-[44px] p-2 rounded-lg bg-white hover:bg-background/25">
+                <Image src="/pbsvi.svg" alt="PBSVI" fill className="object-contain bg-white rounded-lg px-1.5" />
               </div>
             </Link>
           </div>
